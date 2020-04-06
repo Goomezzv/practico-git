@@ -2292,6 +2292,8 @@ input, select, textarea {
 		position: relative;
 		color: #858484;
 		padding: 4em 0;
+		color: black;
+		background-color: grey;
 	}
 
 		#footer:before {
